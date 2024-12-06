@@ -1,1 +1,1 @@
-# CodeAlpha--Task2
+A simple Calculator Using HTML, CSS, JAVASCRIPT
